@@ -1,4 +1,4 @@
-# AutoSSLKeyDeliver
+# AutoSSLKeyDeliver on RHEL
 Create all SSL files from pfx file.
 
 Pfx file into :
